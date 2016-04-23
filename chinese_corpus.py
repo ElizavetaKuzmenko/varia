@@ -4,11 +4,14 @@ import re, os, lxml.html, time
 
 
 # put the path to your file directory here
-DIR_PATH = '/home/lizaku/PycharmProjects/varia/'
+DIR_PATH = '/home/lizaku/PycharmProjects/varia/chinese_texts'
 # put the path to the dictionary here
 DICT_PATH = '/home/lizaku/PycharmProjects/varia/cedict_ts.u8'
 # smart transription split
 re_transcr = re.compile('([^\]]*\])')
+re_punct = re.compile('[《》“”！。？：  -‘、…ａ；\n 　’，—（）0-9]')
+re_clean1 = re.compile('(</w>)+')
+re_clean2 = re.compile('<w><ana lex="\n[^\n]*\n')
 
 
 def load_dict(path): # todo: save the dictionary in json and do not load it every time
@@ -21,7 +24,7 @@ def load_dict(path): # todo: save the dictionary in json and do not load it ever
     cedict = {}
     with open(path, 'r', encoding='utf-8') as f:
         for line in f:
-            if line.startswith('#'):
+            if line.startswith('#') or line == ' CC-CEDICT\n':
                 continue
             old, new, transcr, transl = line.strip().split(' ', 3)
             m = re_transcr.search(transl)
@@ -41,21 +44,24 @@ def load_dict(path): # todo: save the dictionary in json and do not load it ever
 def load_corpus(path, cedict):
     """
     load and read all the files, transform them into the required form, write it down
-    :param path: path to the dir with files
+    :param path: path to the dir with files, where the processed files will be put as well
     :param cedict: Chinese dictionary
     """
     for f in os.listdir(path):
         if f.endswith('ml') and '_processed' not in f:
-            new_f = open(f.rsplit('.', 1)[0] + '_processed.xml', 'w', encoding="utf-8")
+            print(f)
+            new_f = open(os.path.join(path, f.rsplit('.', 1)[0] + '_processed.xml'), 'w', encoding="utf-8")
             # here goes all the transformation
-            sentences = make_xml(f, cedict)
+            sentences = make_xml(os.path.join(path, f), cedict)
             # write the transformed sentences one after another
-            with open(f, 'r', encoding='utf-8') as orig:
+            with open(os.path.join(path, f), 'r', encoding='utf-8') as orig:
                 text = orig.read()
                 print('replacing...', time.asctime())
                 n = 0
                 for sent in sentences:
                     text = text.replace(sent, sentences[sent])
+                    text = re_clean1.sub('</w>', text)
+                    text = re_clean2.sub('', text)
                     n += 1
                 new_f.write(text)
             new_f.close()
@@ -90,11 +96,7 @@ def make_xml(fname, cedict):
         fragments = sentences[sent].split('，')
         for fragment in fragments:
             # delete all the punctuation (keep in the original sentence)
-            # todo: looks insane, change somehow
-            fragment = fragment.replace('“', '').replace('”', '').replace('！', '').replace('。', '').replace('？', '')
-            fragment = fragment.replace('：', '').replace('  ', '').replace('-', '').replace('‘', '').replace('、', '')
-            fragment = fragment.replace('…', '').replace(' ', '').replace('ａ', '').replace('；', '').replace('\n', '')
-            fragment = fragment.replace(' ', '')
+            fragment = re_punct.sub('', fragment)
             while len(fragment) > 0:
                 # if we still have smth in the fragment...
                 chunk = fragment
@@ -102,6 +104,11 @@ def make_xml(fname, cedict):
                 # todo: there was some dynamic algorithm for this
                 while chunk not in cedict and chunk != '':
                     chunk = chunk[:-1]
+                if chunk == '':
+                    word_xml = '\n<w>' + fragment + '</w>'
+                    sentences[sent] = re.sub(fragment, word_xml, sentences[sent])
+                    fragment = fragment[1:]
+                    continue
                 # now we have the dictionary entry, extract its features and wrap into tags
                 word_xml = '\n<w>'
                 for elem in cedict[chunk]:
@@ -114,6 +121,8 @@ def make_xml(fname, cedict):
                 # change the original sentence
                 # todo: cases with three characters in a row are not considered, the second one gets replaced
                 sentences[sent] = re.sub('(?<!["_|])' + chunk + '(?!["<_\[])', word_xml.replace('=" ', '="'), sentences[sent])
+                #sentences[sent] = re.sub('<w><ana lex="\n[^\n]*\n', '', sentences[sent])
+                #sentences[sent] = re.sub('(</w>)+', '</w>', sentences[sent])
                 fragment = fragment[len(chunk):]
         sent_dict[orig_sent] = sentences[sent]
     return sent_dict

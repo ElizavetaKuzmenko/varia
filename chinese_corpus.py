@@ -159,6 +159,7 @@ def make_xml(fname, cedict):
         sent_dict[orig_sent] = transformed
     return sent_dict
 
+
 if __name__ == '__main__':
     cedict = load_dict(DICT_PATH)
     load_corpus(DIR_PATH, cedict)

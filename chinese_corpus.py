@@ -4,7 +4,7 @@ import re, os, lxml.html, time
 
 
 # put the path to your file directory here
-DIR_PATH = '/home/lizaku/PycharmProjects/varia/chinese_texts'
+DIR_PATH = '/home/lizaku/PycharmProjects/varia'
 # put the path to the dictionary here
 DICT_PATH = '/home/lizaku/PycharmProjects/varia/cedict_ts.u8'
 # smart transription split

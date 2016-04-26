@@ -1,15 +1,16 @@
 # coding: utf-8
 
 import re, os, lxml.html, time
+from collections import OrderedDict
 
 
 # put the path to your file directory here
-DIR_PATH = '/home/lizaku/PycharmProjects/varia'
+DIR_PATH = '/home/lizaku/PycharmProjects/varia/chinese_texts'
 # put the path to the dictionary here
 DICT_PATH = '/home/lizaku/PycharmProjects/varia/cedict_ts.u8'
 # smart transription split
 re_transcr = re.compile('([^\]]*\])')
-re_punct = re.compile('[《》“”！。？：  -‘、…ａ；\n 　’，—（）0-9]')
+re_punct = re.compile('[《》“”！。？：  -‘、…ａ；\n 　’—（）0-9，]')
 re_clean1 = re.compile('(</w>)+')
 re_clean2 = re.compile('<w><ana lex="\n[^\n]*\n')
 
@@ -56,14 +57,20 @@ def load_corpus(path, cedict):
             # write the transformed sentences one after another
             with open(os.path.join(path, f), 'r', encoding='utf-8') as orig:
                 text = orig.read()
+                para = text.split('</para>')
                 print('replacing...', time.asctime())
                 n = 0
-                for sent in sentences:
-                    text = text.replace(sent, sentences[sent])
-                    text = re_clean1.sub('</w>', text)
-                    text = re_clean2.sub('', text)
+                for p in para:
+                    try:
+                        zh = re.findall('<se lang="zh">([^<]*)<', p, flags=re.DOTALL)[0]
+                        p = p.replace(zh, sentences[zh])
+                        new_f.write(p + '</para>')
+                    except IndexError:
+                        print(p)
+                        new_f.write('</body></html>')
+                    #text = re_clean1.sub('</w>', text)
+                    #text = re_clean2.sub('', text)
                     n += 1
-                new_f.write(text)
             new_f.close()
 
 
@@ -89,14 +96,18 @@ def make_xml(fname, cedict):
     """
     print('make xml...', time.asctime())
     sentences = extract_sentences(fname)
-    sent_dict = {}
+    sent_dict = OrderedDict()
     for sent in range(len(sentences)):
+        #print(len(sentences[sent]))
         orig_sent = sentences[sent]
+        transformed = ''
         # take a sentence and divide it into chunks
-        fragments = sentences[sent].split('，')
+        punct = re_punct.findall(sentences[sent])
+        fragments = [x for x in re_punct.split(sentences[sent]) if x != '']
+        punct_i = 0
         for fragment in fragments:
+            #print(fragment)
             # delete all the punctuation (keep in the original sentence)
-            fragment = re_punct.sub('', fragment)
             while len(fragment) > 0:
                 # if we still have smth in the fragment...
                 chunk = fragment
@@ -106,7 +117,16 @@ def make_xml(fname, cedict):
                     chunk = chunk[:-1]
                 if chunk == '':
                     word_xml = '\n<w>' + fragment + '</w>'
-                    sentences[sent] = re.sub(fragment, word_xml, sentences[sent])
+                    transformed += word_xml
+                    #print(word_xml)
+                    if len(punct) != 0:
+                        try:
+                            transformed += punct[punct_i]
+                            #print('single', punct[punct_i])
+                            punct_i += 1
+                        except:
+                            print(fragment)
+                    #sentences[sent] = re.sub(fragment, word_xml, sentences[sent])
                     fragment = fragment[1:]
                     continue
                 # now we have the dictionary entry, extract its features and wrap into tags
@@ -114,17 +134,27 @@ def make_xml(fname, cedict):
                 for elem in cedict[chunk]:
                     transcr = elem[1][1:-1]
                     # preprocess the translation
-                    transl = elem[2].replace('/"', '/«').replace(' "', ' «').replace('" ', '» ').replace(' ', '_').replace('/', ', ').replace('_, ', '').strip().strip(',')
+                    transl = elem[2].replace('&', 'and').replace('("', '(«').replace('/"', '/«').replace(' "', ' «').replace('" ', '» ').replace('")', '»)').replace('",', '»,')\
+                        .replace('"/', '»/').replace(' ', '_').replace('/', ', ').replace('_, ', '').strip().strip(',')
                     word_xml += '<ana lex="%s" transcr="%s" sem="%s"/>' % (chunk, transcr, transl)
                 word_xml += chunk + '</w>'
                 #print(word_xml)
+                transformed += word_xml
                 # change the original sentence
                 # todo: cases with three characters in a row are not considered, the second one gets replaced
-                sentences[sent] = re.sub('(?<!["_|])' + chunk + '(?!["<_\[])', word_xml.replace('=" ', '="'), sentences[sent])
+                #sentences[sent] = re.sub('(?<!["_|])' + chunk + '(?!["<_\[])', word_xml.replace('=" ', '="'), sentences[sent])
                 #sentences[sent] = re.sub('<w><ana lex="\n[^\n]*\n', '', sentences[sent])
                 #sentences[sent] = re.sub('(</w>)+', '</w>', sentences[sent])
                 fragment = fragment[len(chunk):]
-        sent_dict[orig_sent] = sentences[sent]
+            if len(punct) != 0 and transformed[-1] not in punct:
+                try:
+                    transformed += punct[punct_i]
+                    #print('combi', punct[punct_i])
+                    punct_i += 1
+                except IndexError:
+                    print(fragment)
+        #print(transformed)
+        sent_dict[orig_sent] = transformed
     return sent_dict
 
 if __name__ == '__main__':

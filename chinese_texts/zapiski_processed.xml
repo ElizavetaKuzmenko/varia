@@ -19,7 +19,7 @@
 <w><ana lex="昔日" transcr="xi1 ri4" sem="formerly, in_olden_days"/>昔日</w>
 <w><ana lex="在" transcr="zai4" sem="(located)_at, (to_be)_in, to_exist, in_the_middle_of_doing_sth, (indicating_an_action_in_progress)"/>在</w>
 <w><ana lex="中学" transcr="zhong1 xue2" sem="middle_school, CL:個|个[ge4]"/>中学</w>
-<w><ana lex="时" transcr="shi2" sem="old_old_時|时[shi2]"/><ana lex="时" transcr="Shi2" sem="surname_Shi"/><ana lex="时" transcr="shi2" sem="o'clock, time, when, hour, season, period"/>时</w>
+<w><ana lex="时" transcr="Shi2" sem="surname_Shi"/><ana lex="时" transcr="shi2" sem="o'clock, time, when, hour, season, period"/>时</w>
 <w><ana lex="良友" transcr="liang2 you3" sem="good_friend, companion"/>良友</w>；
 <w><ana lex="分隔" transcr="fen1 ge2" sem="to_divide, to_separate, partition"/>分隔</w>
 <w><ana lex="多" transcr="duo1" sem="many, much, often, a_lot_of, numerous, more, in_excess, how_(to_what_extent), multi-, Taiwan_pr._[duo2]_when_it_means_«how»"/>多</w>
@@ -41,7 +41,7 @@
 <w><ana lex="故乡" transcr="gu4 xiang1" sem="home, homeland, native_place, CL:個|个[ge4]"/>故乡</w>，
 <w><ana lex="迂" transcr="yu1" sem="literal-minded, pedantic, doctrinaire, longwinded, circuitous"/>迂</w>
 <w><ana lex="道" transcr="dao4" sem="direction, way, road, path, CL:條|条[tiao2],股[gu3], principle, truth, morality, reason, skill, method, Dao_(of_Daoism), to_say, to_speak, to_talk, classifier_for_long_thin_things_(rivers,_cracks_etc),_barriers_(walls,_doors_etc),_questions_(in_an_exam_etc),_commands,_courses_in_a_meal,_steps_in_a_process, province_(of_Korea_or_Japan)"/>道</w>
-<w><ana lex="往" transcr="wang3" sem="to_go_(in_a_direction), to, towards, (of_a_train)_bound_for, past, previous"/><ana lex="往" transcr="wang3" sem="old_ to_go_(in_a_direction), to, towards, (of_a_train)_bound_for, past, previous"/>往</w>
+<w><ana lex="往" transcr="wang3" sem="to_go_(in_a_direction), to, towards, (of_a_train)_bound_for, past, previous"/>往</w>
 <w><ana lex="访" transcr="fang3" sem="to_visit, to_call_on, to_seek, to_inquire, to_investigate"/>访</w>，
 <w><ana lex="则" transcr="ze2" sem="conjunction_used_to_express_contrast_with_a_previous_sentence_or_clause, standard, norm, rule, to_imitate, to_follow, then, principle, classifier_for_written_items_(such_as_an_official_statement)"/>则</w>
 <w><ana lex="仅" transcr="jin3" sem="barely, only, merely"/>仅</w>
@@ -76,7 +76,7 @@
 </para>
 <para>
 <se lang="zh">
-<w><ana lex="因" transcr="yin1" sem="old_old_因[yin1]"/><ana lex="因" transcr="yin1" sem="cause, reason, because"/>因</w>
+<w><ana lex="因" transcr="yin1" sem="cause, reason, because"/>因</w>
 <w><ana lex="大笑" transcr="da4 xiao4" sem="to_laugh_heartily, a_belly_laugh"/>大笑</w>，
 <w><ana lex="出示" transcr="chu1 shi4" sem="to_show, to_take_out_and_show_to_others, to_display"/>出示</w>
 <w><ana lex="日记" transcr="ri4 ji4" sem="diary, CL:則|则[ze2],本[ben3],篇[pian1]"/>日记</w>
@@ -152,7 +152,7 @@
 <w><ana lex="录" transcr="Lu4" sem="surname_Lu"/><ana lex="录" transcr="lu4" sem="diary, record, to_hit, to_copy"/>录</w>
 <w><ana lex="一" transcr="yi1" sem="one, 1, single, a_(article), as_soon_as, entire, whole, all, throughout, «one»_radical_in_Chinese_characters_(Kangxi_radical_1), also_pr._[yao1]_for_greater_clarity_when_spelling_out_numbers_digit_by_digit"/>一</w>
 <w><ana lex="篇" transcr="pian1" sem="sheet, piece_of_writing, bound_set_of_bamboo_slips_used_for_record_keeping_(old), classifier_for_written_items:_chapter,_article"/>篇</w>，
-<w><ana lex="以" transcr="yi3" sem="old_old_以[yi3]"/><ana lex="以" transcr="yi3" sem="old_old_以[yi3]"/><ana lex="以" transcr="Yi3" sem="abbr._for_Israel_以色列[Yi3_se4_lie4]"/><ana lex="以" transcr="yi3" sem="to_use, by_means_of, according_to, in_order_to, because_of, at_(a_certain_date_or_place)"/>以</w>
+<w><ana lex="以" transcr="yi3" sem="以[yi3]"/><ana lex="以" transcr="yi3" sem="以[yi3]"/><ana lex="以" transcr="Yi3" sem="abbr._for_Israel_以色列[Yi3_se4_lie4]"/><ana lex="以" transcr="yi3" sem="to_use, by_means_of, according_to, in_order_to, because_of, at_(a_certain_date_or_place)"/>以</w>
 <w><ana lex="供" transcr="gong1" sem="to_provide, to_supply"/><ana lex="供" transcr="gong4" sem="sacrificial_offering, to_confess"/>供</w>
 <w><ana lex="医家" transcr="yi1 jia1" sem="healer, physician, medical_man, doctor_(esp._of_TCM)"/>医家</w>
 <w><ana lex="研究" transcr="yan2 jiu1" sem="research, a_study, CL:項|项[xiang4]"/>研究</w>。</se>
@@ -336,10 +336,10 @@
 <w><ana lex="嘴" transcr="zui3" sem="mouth, beak, nozzle, spout_(of_teapot_etc), CL:張|张[zhang1],個|个[ge4]"/>嘴</w>，
 <w><ana lex="对" transcr="dui4" sem="right, correct, couple, pair, towards, at, for, to_face, opposite, to_treat_(sb_a_certain_way), to_match_together, to_adjust, to_fit, to_suit, to_answer, to_reply, classifier:_couple"/>对</w>
 <w><ana lex="我" transcr="wo3" sem="I, me, my"/>我</w>
-<w><ana lex="笑" transcr="xiao4" sem="old_old_笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>
+<w><ana lex="笑" transcr="xiao4" sem="笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>
 <w><ana lex="了" transcr="le5" sem="MOD"/><ana lex="了" transcr="le5" sem="PFV"/><ana lex="了" transcr="liao3" sem="to_finish, to_achieve,  MOD, to_understand_clearly"/><ana lex="了" transcr="liao3" sem="(of_eyes)_bright, clear-sighted, to_understand_clearly"/><ana lex="了" transcr="liao4" sem="unofficial_ to_watch_from_a_height_or_distance, to_survey"/>了</w>
 <w><ana lex="一" transcr="yi1" sem="one, 1, single, a_(article), as_soon_as, entire, whole, all, throughout, «one»_radical_in_Chinese_characters_(Kangxi_radical_1), also_pr._[yao1]_for_greater_clarity_when_spelling_out_numbers_digit_by_digit"/>一</w>
-<w><ana lex="笑" transcr="xiao4" sem="old_old_笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>；
+<w><ana lex="笑" transcr="xiao4" sem="笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>；
 <w><ana lex="我" transcr="wo3" sem="I, me, my"/>我</w>
 <w><ana lex="便" transcr="bian4" sem="ordinary, plain, convenient, as_convenient, when_the_chance_arises, handy, easy, informal, simple, so, thus, to_relieve_oneself, to_urinate, to_defecate, equivalent_to_就[jiu4]:_then, in_that_case, even_if, soon_afterwards"/><ana lex="便" transcr="pian2" sem="advantageous, cheap"/>便</w>
 <w><ana lex="从头" transcr="cong2 tou2" sem="anew, from_the_start"/>从头</w>
@@ -490,7 +490,7 @@
 <w><ana lex="同" transcr="tong2" sem="(used_in_given_names), (used_in_given_names), 同[tong2]"/><ana lex="同" transcr="tong2" sem="like, same, similar, together, alike, with"/><ana lex="同" transcr="tong4" sem="lane, alley, CL:條|条[tiao2]"/>同</w>
 <w><ana lex="我" transcr="wo3" sem="I, me, my"/>我</w>
 <w><ana lex="作" transcr="zuo4" sem="to_do, to_grow, to_write_or_compose, to_pretend, to_regard_as, to_feel, writings_or_works"/>作</w>
-<w><ana lex="冤" transcr="yuan1" sem="injustice, grievance, wrong"/><ana lex="冤" transcr="yuan1" sem="old_ injustice, grievance, wrong"/>冤</w>
+<w><ana lex="冤" transcr="yuan1" sem="injustice, grievance, wrong"/>冤</w>
 <w><ana lex="对" transcr="dui4" sem="right, correct, couple, pair, towards, at, for, to_face, opposite, to_treat_(sb_a_certain_way), to_match_together, to_adjust, to_fit, to_suit, to_answer, to_reply, classifier:_couple"/>对</w>。</se>
 <se lang="ru">Хотя Чжао Гуй-вэнь и незнаком с ним, но до него наверняка дошли слухи об этом, и он принял сторону Гу Цзю; это он подговорил прохожих ненавидеть меня.</se>
 </para>
@@ -665,7 +665,7 @@
 <se lang="zh">
 <w><ana lex="他" transcr="ta1" sem="he_or_him, (used_for_either_sex_when_the_sex_is_unknown_or_unimportant), (used_before_sb's_name_for_emphasis), (used_as_a_meaningless_mock_object), other, another"/>他</w>
 <w><ana lex="眼睛" transcr="yan3 jing5" sem="eye, CL:隻|只[zhi1],雙|双[shuang1]"/>眼睛</w>
-<w><ana lex="却" transcr="que4" sem="old_old_卻|却[que4]"/><ana lex="却" transcr="que4" sem="but, yet, however, while, to_go_back, to_decline, to_retreat, nevertheless, even_though"/>却</w>
+<w><ana lex="却" transcr="que4" sem="but, yet, however, while, to_go_back, to_decline, to_retreat, nevertheless, even_though"/>却</w>
 <w><ana lex="看" transcr="kan1" sem="to_look_after, to_take_care_of, to_watch, to_guard"/><ana lex="看" transcr="kan4" sem="to_see, to_look_at, to_read, to_watch, to_visit, to_call_on, to_consider, to_regard_as, to_look_after, to_treat_(an_illness), to_depend_on, to_feel_(that), (after_verb)_to_give_it_a_try, Watch_out!_(for_a_danger)"/>看</w>
 <w><ana lex="着" transcr="zhao1" sem="(chess)_move, trick, all_right!, (dialect)_to_add"/><ana lex="着" transcr="zhao2" sem="to_touch, to_come_in_contact_with, to_feel, to_be_affected_by, to_catch_fire, to_burn, (coll.)_to_fall_asleep, (after_a_verb)_hitting_the_mark, succeeding_in"/><ana lex="着" transcr="zhe5" sem="PRG"/><ana lex="着" transcr="zhuo2" sem="to_wear_(clothes), to_contact, to_use, to_apply"/>着</w>
 <w><ana lex="我" transcr="wo3" sem="I, me, my"/>我</w>。</se>
@@ -814,12 +814,12 @@
 <para>
 <se lang="zh">
 <w><ana lex="我" transcr="wo3" sem="I, me, my"/>我</w>
-<w><ana lex="插" transcr="cha1" sem="to_insert, stick_in, pierce, to_take_part_in, to_interfere, to_interpose"/><ana lex="插" transcr="cha1" sem="old_ to_insert, stick_in, pierce, to_take_part_in, to_interfere, to_interpose"/>插</w>
+<w><ana lex="插" transcr="cha1" sem="to_insert, stick_in, pierce, to_take_part_in, to_interfere, to_interpose"/>插</w>
 <w><ana lex="了" transcr="le5" sem="MOD"/><ana lex="了" transcr="le5" sem="PFV"/><ana lex="了" transcr="liao3" sem="to_finish, to_achieve,  MOD, to_understand_clearly"/><ana lex="了" transcr="liao3" sem="(of_eyes)_bright, clear-sighted, to_understand_clearly"/><ana lex="了" transcr="liao4" sem="unofficial_ to_watch_from_a_height_or_distance, to_survey"/>了</w>
 <w><ana lex="一句" transcr="yi1 ju4" sem="a_line_of_verse, a_sentence"/>一句</w>
 <w><ana lex="嘴" transcr="zui3" sem="mouth, beak, nozzle, spout_(of_teapot_etc), CL:張|张[zhang1],個|个[ge4]"/>嘴</w>，
 <w><ana lex="佃户" transcr="dian4 hu4" sem="tenant_farmer"/>佃户</w>
-<w><ana lex="和" transcr="he2" sem="old_old_和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="old_old_和[he2], harmonious"/>和</w>
+<w><ana lex="和" transcr="he2" sem="和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="和[he2], harmonious"/>和</w>
 <w><ana lex="大哥" transcr="da4 ge1" sem="eldest_brother"/>大哥</w>
 <w><ana lex="便" transcr="bian4" sem="ordinary, plain, convenient, as_convenient, when_the_chance_arises, handy, easy, informal, simple, so, thus, to_relieve_oneself, to_urinate, to_defecate, equivalent_to_就[jiu4]:_then, in_that_case, even_if, soon_afterwards"/><ana lex="便" transcr="pian2" sem="advantageous, cheap"/>便</w>
 <w><ana lex="都" transcr="Du1" sem="surname_Du"/><ana lex="都" transcr="dou1" sem="all, both, entirely, (used_for_emphasis)_even, already, (not)_at_all"/><ana lex="都" transcr="du1" sem="capital_city, metropolis"/>都</w>
@@ -881,14 +881,14 @@
 <w><ana lex="几" transcr="ji1" sem="small_table"/><ana lex="几" transcr="ji1" sem="almost"/><ana lex="几" transcr="ji3" sem="how_much, how_many, several, a_few"/>几</w>
 <w><ana lex="口" transcr="kou3" sem="mouth, classifier_for_things_with_mouths_(people,_domestic_animals,_cannons,_wells_etc), classifier_for_bites_or_mouthfuls"/>口</w>”
 <w><ana lex="的话" transcr="de5 hua4" sem="if_(coming_after_a_conditional_clause)"/>的话</w>，
-<w><ana lex="和" transcr="he2" sem="old_old_和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="old_old_和[he2], harmonious"/>和</w>
+<w><ana lex="和" transcr="he2" sem="和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="和[he2], harmonious"/>和</w>
 <w><ana lex="一" transcr="yi1" sem="one, 1, single, a_(article), as_soon_as, entire, whole, all, throughout, «one»_radical_in_Chinese_characters_(Kangxi_radical_1), also_pr._[yao1]_for_greater_clarity_when_spelling_out_numbers_digit_by_digit"/>一</w>
 <w><ana lex="伙" transcr="huo3" sem="meals_(abbr._for_伙食[huo3_shi2]), meals_(abbr._for_伙食[huo3_shi2]), 夥|伙[huo3]"/><ana lex="伙" transcr="huo3" sem="companion, partner, group, classifier_for_groups_of_people, to_combine, together"/>伙</w>
 <w><ana lex="青面獠牙" transcr="qing1 mian4 liao2 ya2" sem="ferocious-looking_(idiom)"/>青面獠牙</w>
 <w><ana lex="人" transcr="ren2" sem="man, person, people, CL:個|个[ge4],位[wei4]"/>人</w>
 <w><ana lex="的" transcr="de5" sem="ATRN"/><ana lex="的" transcr="di1" sem="taxi_(loanword)"/><ana lex="的" transcr="di2" sem="really_and_truly"/><ana lex="的" transcr="di4" sem="aim, clear"/>的</w>
-<w><ana lex="笑" transcr="xiao4" sem="old_old_笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>，
-<w><ana lex="和" transcr="he2" sem="old_old_和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="old_old_和[he2], harmonious"/>和</w>
+<w><ana lex="笑" transcr="xiao4" sem="笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>，
+<w><ana lex="和" transcr="he2" sem="和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="和[he2], harmonious"/>和</w>
 <w><ana lex="前天" transcr="qian2 tian1" sem="the_day_before_yesterday"/>前天</w>
 <w><ana lex="佃户" transcr="dian4 hu4" sem="tenant_farmer"/>佃户</w>
 <w><ana lex="的话" transcr="de5 hua4" sem="if_(coming_after_a_conditional_clause)"/>的话</w>，
@@ -907,7 +907,7 @@
 <w><ana lex="全" transcr="Quan2" sem="surname_Quan"/><ana lex="全" transcr="quan2" sem="all, whole, entire, every, complete"/>全</w>
 <w><ana lex="是" transcr="shi4" sem="is, are, am, yes, to_be"/><ana lex="是" transcr="shi4" sem="is, are, am, yes, to_be, (used_in_given_names)"/>是</w>
 <w><ana lex="毒" transcr="du2" sem="poison, to_poison, poisonous, malicious, cruel, fierce, narcotics"/>毒</w>，
-<w><ana lex="笑" transcr="xiao4" sem="old_old_笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>
+<w><ana lex="笑" transcr="xiao4" sem="笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>
 <w><ana lex="中" transcr="Zhong1" sem="China, Chinese, surname_Zhong"/><ana lex="中" transcr="zhong1" sem="within, among, in, middle, center, while_(doing_sth), during, (dialect)_OK, all_right"/><ana lex="中" transcr="zhong4" sem="to_hit_(the_mark), to_be_hit_by, to_suffer, to_win_(a_prize,_a_lottery)"/>中</w>
 <w><ana lex="全" transcr="Quan2" sem="surname_Quan"/><ana lex="全" transcr="quan2" sem="all, whole, entire, every, complete"/>全</w>
 <w><ana lex="是" transcr="shi4" sem="is, are, am, yes, to_be"/><ana lex="是" transcr="shi4" sem="is, are, am, yes, to_be, (used_in_given_names)"/>是</w>
@@ -1127,9 +1127,9 @@
 <w><ana lex="这" transcr="zhe4" sem="this, these, (commonly_pr._[zhei4]_before_a_classifier,_esp._in_Beijing)"/>这</w>
 <w><ana lex="许多" transcr="xu3 duo1" sem="many, a_lot_of, much"/>许多</w>
 <w><ana lex="话" transcr="hua4" sem="dialect, language, spoken_words, speech, talk, words, conversation, what_sb_said, CL:種|种[zhong3],席[xi2],句[ju4],口[kou3],番[fan1]"/><ana lex="话" transcr="hua4" sem="old_dialect, language, spoken_words, speech, talk, words, conversation, what_sb_said, CL:種|种[zhong3],席[xi2],句[ju4],口[kou3],番[fan1]"/>话</w>，
-<w><ana lex="却" transcr="que4" sem="old_old_卻|却[que4]"/><ana lex="却" transcr="que4" sem="but, yet, however, while, to_go_back, to_decline, to_retreat, nevertheless, even_though"/>却</w>
+<w><ana lex="却" transcr="que4" sem="but, yet, however, while, to_go_back, to_decline, to_retreat, nevertheless, even_though"/>却</w>
 <w><ana lex="都" transcr="Du1" sem="surname_Du"/><ana lex="都" transcr="dou1" sem="all, both, entirely, (used_for_emphasis)_even, already, (not)_at_all"/><ana lex="都" transcr="du1" sem="capital_city, metropolis"/>都</w>
-<w><ana lex="笑" transcr="xiao4" sem="old_old_笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>
+<w><ana lex="笑" transcr="xiao4" sem="笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>
 <w><ana lex="吟" transcr="yin2" sem="to_chant, to_recite, to_moan, to_groan, cry_(of_certain_animals_and_insects), song_(ancient_poem)"/><ana lex="吟" transcr="yin2" sem="old_ to_chant, to_recite, to_moan, to_groan, cry_(of_certain_animals_and_insects), song_(ancient_poem)"/>吟</w>
 <w><ana lex="吟" transcr="yin2" sem="to_chant, to_recite, to_moan, to_groan, cry_(of_certain_animals_and_insects), song_(ancient_poem)"/><ana lex="吟" transcr="yin2" sem="old_ to_chant, to_recite, to_moan, to_groan, cry_(of_certain_animals_and_insects), song_(ancient_poem)"/>吟</w>
 <w><ana lex="的" transcr="de5" sem="ATRN"/><ana lex="的" transcr="di1" sem="taxi_(loanword)"/><ana lex="的" transcr="di2" sem="really_and_truly"/><ana lex="的" transcr="di4" sem="aim, clear"/>的</w>
@@ -1275,7 +1275,7 @@
 <w><ana lex="他们" transcr="ta1 men5" sem="they"/>他们</w>
 <w><ana lex="一定" transcr="yi1 ding4" sem="surely, certainly, necessarily, fixed, a_certain_(extent_etc), given, particular, must"/>一定</w>
 <w><ana lex="不" transcr="bu4" sem="(negative_prefix), not, no"/>不</w>
-<w><ana lex="肯" transcr="ken3" sem="old_old_肯[ken3]"/><ana lex="肯" transcr="ken3" sem="to_agree, to_consent, to_be_ready_(to_do_sth), willing"/>肯</w>
+<w><ana lex="肯" transcr="ken3" sem="肯[ken3]"/><ana lex="肯" transcr="ken3" sem="to_agree, to_consent, to_be_ready_(to_do_sth), willing"/>肯</w>
 <w><ana lex="放松" transcr="fang4 song1" sem="to_loosen, to_relax"/>放松</w>。</se>
 <se lang="ru">Я не двинулся с места и следил за ними: что они собираются со мной сделать? Знаю, что меня не выпустят.</se>
 </para>
@@ -1321,7 +1321,7 @@
 <w><ana lex="说" transcr="shui4" sem="to_persuade"/><ana lex="说" transcr="shuo1" sem="to_speak, to_say, to_explain, to_scold, to_tell_off, a_theory_(usually_in_compounds_such_as_日心说_heliocentric_theory)"/>说</w>，
 <w><ana lex="今天" transcr="jin1 tian1" sem="today, at_the_present, now"/>今天</w>
 <w><ana lex="你" transcr="ni3" sem="you_(informal,_as_opposed_to_courteous_您[nin2])"/>你</w>
-<w><ana lex="仿佛" transcr="fang3 fu2" sem="彷彿|仿佛[fang3"/><ana lex="仿佛" transcr="fang3 fu2" sem="to_seem, as_if, alike, similar"/>仿佛</w>
+<w><ana lex="仿佛" transcr="fang3 fu2" sem="to_seem, as_if, alike, similar"/>仿佛</w>
 <w><ana lex="很" transcr="hen3" sem="(adverb_of_degree), quite, very, awfully"/>很</w>
 <w><ana lex="好" transcr="hao3" sem="good, well, proper, good_to, easy_to, very, so, (suffix_indicating_completion_or_readiness), (of_an_unmarried_couple)_to_be_close, to_be_keen_on_each_other"/><ana lex="好" transcr="hao4" sem="to_be_fond_of, to_have_a_tendency_to, to_be_prone_to"/>好</w>“</se>
 <se lang="ru">Брат спросил: «Сегодня ты, кажется, хорошо себя чувствуешь?» </se>
@@ -1372,7 +1372,7 @@
 <w><ana lex="借" transcr="jie4" sem="to_lend, to_borrow, by_means_of, to_take_(an_opportunity)"/><ana lex="借" transcr="jie4" sem="to_lend, to_borrow, by_means_of, to_take_(an_opportunity)"/>借</w>
 <w><ana lex="了" transcr="le5" sem="MOD"/><ana lex="了" transcr="le5" sem="PFV"/><ana lex="了" transcr="liao3" sem="to_finish, to_achieve,  MOD, to_understand_clearly"/><ana lex="了" transcr="liao3" sem="(of_eyes)_bright, clear-sighted, to_understand_clearly"/><ana lex="了" transcr="liao4" sem="unofficial_ to_watch_from_a_height_or_distance, to_survey"/>了</w>
 <w><ana lex="看" transcr="kan1" sem="to_look_after, to_take_care_of, to_watch, to_guard"/><ana lex="看" transcr="kan4" sem="to_see, to_look_at, to_read, to_watch, to_visit, to_call_on, to_consider, to_regard_as, to_look_after, to_treat_(an_illness), to_depend_on, to_feel_(that), (after_verb)_to_give_it_a_try, Watch_out!_(for_a_danger)"/>看</w>
-<w><ana lex="脉" transcr="mai4" sem="old_old_脈|脉[mai4]"/><ana lex="脉" transcr="mai4" sem="arteries_and_veins, vein_(on_a_leaf,_insect_wing_etc)"/><ana lex="脉" transcr="mo4" sem="affectionate, loving"/><ana lex="脉" transcr="mai4" sem="old_脈|脉[mai4]"/>脉</w>
+<w><ana lex="脉" transcr="mai4" sem="脈|脉[mai4]"/><ana lex="脉" transcr="mai4" sem="arteries_and_veins, vein_(on_a_leaf,_insect_wing_etc)"/><ana lex="脉" transcr="mo4" sem="affectionate, loving"/><ana lex="脉" transcr="mai4" sem="old_脈|脉[mai4]"/>脉</w>
 <w><ana lex="这" transcr="zhe4" sem="this, these, (commonly_pr._[zhei4]_before_a_classifier,_esp._in_Beijing)"/>这</w>
 <w><ana lex="名目" transcr="ming2 mu4" sem="name_of_an_item, fame"/>名目</w>，
 <w><ana lex="揣" transcr="chuai1" sem="to_put_into_(one's_pockets,_clothes), Taiwan_pr._[chuai3]"/><ana lex="揣" transcr="chuai3" sem="to_estimate, to_guess, to_figure, to_surmise"/>揣</w>
@@ -1380,7 +1380,7 @@
 <w><ana lex="揣" transcr="chuai1" sem="to_put_into_(one's_pockets,_clothes), Taiwan_pr._[chuai3]"/><ana lex="揣" transcr="chuai3" sem="to_estimate, to_guess, to_figure, to_surmise"/>揣</w>
 <w><ana lex="肥" transcr="fei2" sem="fat, fertile, loose-fitting_or_large, to_fertilize, to_become_rich_by_illegal_means, fertilizer, manure"/>肥</w>
 <w><ana lex="瘠" transcr="ji2" sem="barren, lean"/>瘠</w>：
-<w><ana lex="因" transcr="yin1" sem="old_old_因[yin1]"/><ana lex="因" transcr="yin1" sem="cause, reason, because"/>因</w>
+<w><ana lex="因" transcr="yin1" sem="cause, reason, because"/>因</w>
 <w><ana lex="这" transcr="zhe4" sem="this, these, (commonly_pr._[zhei4]_before_a_classifier,_esp._in_Beijing)"/>这</w>
 <w><ana lex="功劳" transcr="gong1 lao2" sem="contribution, meritorious_service, credit"/>功劳</w>，
 <w><ana lex="也" transcr="Ye3" sem="surname_Ye"/><ana lex="也" transcr="ye3" sem="also, too, (in_Classical_Chinese)_final_particle_implying_affirmation"/>也</w>
@@ -1399,7 +1399,7 @@
 <w><ana lex="不" transcr="bu4" sem="(negative_prefix), not, no"/>不</w>
 <w><ana lex="吃人" transcr="chi1 ren2" sem="exploitative, oppressive"/>吃人</w>，
 <w><ana lex="胆子" transcr="dan3 zi5" sem="courage, nerve, guts"/>胆子</w>
-<w><ana lex="却" transcr="que4" sem="old_old_卻|却[que4]"/><ana lex="却" transcr="que4" sem="but, yet, however, while, to_go_back, to_decline, to_retreat, nevertheless, even_though"/>却</w>
+<w><ana lex="却" transcr="que4" sem="but, yet, however, while, to_go_back, to_decline, to_retreat, nevertheless, even_though"/>却</w>
 <w><ana lex="比" transcr="Bi3" sem="Belgium, Belgian, abbr._for_比利時|比利时[Bi3_li4_shi2]"/><ana lex="比" transcr="bi3" sem="(particle_used_for_comparison_and_«-er_than»), to_compare, to_contrast, to_gesture_(with_hands), ratio"/><ana lex="比" transcr="bi4" sem="to_associate_with, to_be_near"/>比</w>
 <w><ana lex="他们" transcr="ta1 men5" sem="they"/>他们</w>
 <w><ana lex="还" transcr="Huan2" sem="surname_Huan"/><ana lex="还" transcr="hai2" sem="still, still_in_progress, still_more, yet, even_more, in_addition, fairly, passably_(good), as_early_as, even, also, else"/><ana lex="还" transcr="huan2" sem="to_pay_back, to_return"/>还</w>
@@ -1508,7 +1508,7 @@
 <w><ana lex="要" transcr="yao1" sem="to_demand, to_request, to_coerce"/><ana lex="要" transcr="yao4" sem="important, vital, to_want, to_ask_for, will, going_to_(as_future_auxiliary), may, must, (used_in_a_comparison)_must_be, probably, if"/>要</w>
 <w><ana lex="令" transcr="Ling2" sem="old_place_name_(in_modern_Linyi_county_臨猗縣|临猗县,_Shanxi), two-character_surname_Linghu"/><ana lex="令" transcr="ling2" sem="鶺鴒|鹡鸰[ji2"/><ana lex="令" transcr="ling3" sem="classifier_for_a_ream_of_paper"/><ana lex="令" transcr="ling4" sem="to_order, to_command, an_order, warrant, writ, to_cause, to_make_sth_happen, virtuous, honorific_title, season, government_position_(old)"/>令</w>
 <w><ana lex="我" transcr="wo3" sem="I, me, my"/>我</w>
-<w><ana lex="笑" transcr="xiao4" sem="old_old_笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>
+<w><ana lex="笑" transcr="xiao4" sem="笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>
 <w><ana lex="死" transcr="si3" sem="to_die, impassable, uncrossable, inflexible, rigid, extremely, damned"/>死</w>。</se>
 <se lang="ru">Эти люди необыкновенно хитры, они хотят съесть человека и в то же время придумывают, как бы это скрыть, боятся прямо приступить к делу – вот потеха! </se>
 </para>
@@ -1533,14 +1533,14 @@
 <w><ana lex="里面" transcr="li3 mian4" sem="inside, interior"/>里面</w>，
 <w><ana lex="有的是" transcr="you3 de5 shi4" sem="have_plenty_of, there's_no_lack_of"/>有的是</w>
 <w><ana lex="义勇" transcr="yi4 yong3" sem="courageous, righteous_and_courageous"/>义勇</w>
-<w><ana lex="和" transcr="he2" sem="old_old_和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="old_old_和[he2], harmonious"/>和</w>
+<w><ana lex="和" transcr="he2" sem="和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="和[he2], harmonious"/>和</w>
 <w><ana lex="正气" transcr="zheng4 qi4" sem="healthy_environment, healthy_atmosphere, righteousness, vital_energy_(in_Chinese_medicine)"/>正气</w>。</se>
 <se lang="ru">В моем смехе была смелость и прямота.</se>
 </para>
 <para>
 <se lang="zh">
 <w><ana lex="老头子" transcr="lao3 tou2 zi5" sem="(coll.)_old_man, (said_of_an_aging_husband)_my_old_man"/>老头子</w>
-<w><ana lex="和" transcr="he2" sem="old_old_和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="old_old_和[he2], harmonious"/>和</w>
+<w><ana lex="和" transcr="he2" sem="和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="和[he2], harmonious"/>和</w>
 <w><ana lex="大哥" transcr="da4 ge1" sem="eldest_brother"/>大哥</w>，
 <w><ana lex="都" transcr="Du1" sem="surname_Du"/><ana lex="都" transcr="dou1" sem="all, both, entirely, (used_for_emphasis)_even, already, (not)_at_all"/><ana lex="都" transcr="du1" sem="capital_city, metropolis"/>都</w>
 <w><ana lex="失" transcr="shi1" sem="to_lose, to_miss, to_fail"/>失</w>
@@ -1942,7 +1942,7 @@
 <w><ana lex="了" transcr="le5" sem="MOD"/><ana lex="了" transcr="le5" sem="PFV"/><ana lex="了" transcr="liao3" sem="to_finish, to_achieve,  MOD, to_understand_clearly"/><ana lex="了" transcr="liao3" sem="(of_eyes)_bright, clear-sighted, to_understand_clearly"/><ana lex="了" transcr="liao4" sem="unofficial_ to_watch_from_a_height_or_distance, to_survey"/>了</w>，
 <w><ana lex="是" transcr="shi4" sem="is, are, am, yes, to_be"/><ana lex="是" transcr="shi4" sem="is, are, am, yes, to_be, (used_in_given_names)"/>是</w>
 <w><ana lex="不" transcr="bu4" sem="(negative_prefix), not, no"/>不</w>
-<w><ana lex="肯" transcr="ken3" sem="old_old_肯[ken3]"/><ana lex="肯" transcr="ken3" sem="to_agree, to_consent, to_be_ready_(to_do_sth), willing"/>肯</w>
+<w><ana lex="肯" transcr="ken3" sem="肯[ken3]"/><ana lex="肯" transcr="ken3" sem="to_agree, to_consent, to_be_ready_(to_do_sth), willing"/>肯</w>
 <w><ana lex="的" transcr="de5" sem="ATRN"/><ana lex="的" transcr="di1" sem="taxi_(loanword)"/><ana lex="的" transcr="di2" sem="really_and_truly"/><ana lex="的" transcr="di4" sem="aim, clear"/>的</w>，
 <w><ana lex="而且" transcr="er2 qie3" sem="(not_only_...)_but_also, moreover, in_addition, furthermore"/>而且</w>
 <w><ana lex="也" transcr="Ye3" sem="surname_Ye"/><ana lex="也" transcr="ye3" sem="also, too, (in_Classical_Chinese)_final_particle_implying_affirmation"/>也</w>
@@ -1950,7 +1950,7 @@
 <w><ana lex="敢" transcr="gan3" sem="to_dare, daring, (polite)_may_I_venture"/>敢</w>，
 <w><ana lex="怕" transcr="Pa4" sem="surname_Pa"/><ana lex="怕" transcr="pa4" sem="to_be_afraid, to_fear, to_dread, to_be_unable_to_endure, perhaps"/>怕</w>
 <w><ana lex="有" transcr="you3" sem="to_have, there_is, there_are, to_exist, to_be"/>有</w>
-<w><ana lex="祸" transcr="huo4" sem="old_old_禍|祸[huo4]"/><ana lex="祸" transcr="huo4" sem="disaster, misfortune, calamity"/>祸</w>
+<w><ana lex="祸" transcr="huo4" sem="disaster, misfortune, calamity"/>祸</w>
 <w><ana lex="祟" transcr="sui4" sem="evil_spirit"/>祟</w>。</se>
 <se lang="ru">Я разгадал их приемы, убить прямо они не желают, да и не смеют, опасаясь злого наважденья.</se>
 </para>
@@ -1977,7 +1977,7 @@
 <w><ana lex="男女" transcr="nan2 nu:3" sem="male-female, male_and_female"/>男女</w>
 <w><ana lex="的" transcr="de5" sem="ATRN"/><ana lex="的" transcr="di1" sem="taxi_(loanword)"/><ana lex="的" transcr="di2" sem="really_and_truly"/><ana lex="的" transcr="di4" sem="aim, clear"/>的</w>
 <w><ana lex="样子" transcr="yang4 zi5" sem="appearance, manner, pattern, model"/>样子</w>，
-<w><ana lex="和" transcr="he2" sem="old_old_和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="old_old_和[he2], harmonious"/>和</w>
+<w><ana lex="和" transcr="he2" sem="和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="和[he2], harmonious"/>和</w>
 <w><ana lex="这几天" transcr="zhe4 ji3 tian1" sem="the_past_few_days"/>这几天</w>
 <w><ana lex="我" transcr="wo3" sem="I, me, my"/>我</w>
 <w><ana lex="大哥" transcr="da4 ge1" sem="eldest_brother"/>大哥</w>
@@ -2044,7 +2044,7 @@
 <w><ana lex="还" transcr="Huan2" sem="surname_Huan"/><ana lex="还" transcr="hai2" sem="still, still_in_progress, still_more, yet, even_more, in_addition, fairly, passably_(good), as_early_as, even, also, else"/><ana lex="还" transcr="huan2" sem="to_pay_back, to_return"/>还</w>
 <w><ana lex="可以" transcr="ke3 yi3" sem="can, may, possible, able_to, not_bad, pretty_good"/>可以</w>
 <w><ana lex="首" transcr="shou3" sem="head, chief, first_(occasion,_thing_etc), classifier_for_poems,_songs_etc"/>首</w>
-<w><ana lex="肯" transcr="ken3" sem="old_old_肯[ken3]"/><ana lex="肯" transcr="ken3" sem="to_agree, to_consent, to_be_ready_(to_do_sth), willing"/>肯</w>
+<w><ana lex="肯" transcr="ken3" sem="肯[ken3]"/><ana lex="肯" transcr="ken3" sem="to_agree, to_consent, to_be_ready_(to_do_sth), willing"/>肯</w>
 <w><ana lex="几" transcr="ji1" sem="small_table"/><ana lex="几" transcr="ji1" sem="almost"/><ana lex="几" transcr="ji3" sem="how_much, how_many, several, a_few"/>几</w>
 <w><ana lex="下" transcr="xia4" sem="down, downwards, below, lower, later, next_(week_etc), second_(of_two_parts), to_decline, to_go_down, to_arrive_at_(a_decision,_conclusion_etc), measure_word_to_show_the_frequency_of_an_action"/><ana lex="下" transcr="xia4" sem="DIR"/>下</w>。</se>
 <se lang="ru">А еще лучше умереть от страха или с тоски; в этом случае я окажусь менее жирным, но и тут они смогут выразить свое одобрение, несколько раз кивнув головой.</se>
@@ -2077,7 +2077,7 @@
 <w><ana lex="那" transcr="Na1" sem="surname_Na"/><ana lex="那" transcr="Nuo2" sem="surname_Nuo"/><ana lex="那" transcr="na3" sem="how, which"/><ana lex="那" transcr="na4" sem="that, those, then_(in_that_case), commonly_pr._[nei4]_before_a_classifier,_esp._in_Beijing"/><ana lex="那" transcr="nuo2" sem="(archaic)_many, beautiful, how, old_ to_shift, to_move"/>那</w>”
 <w><ana lex="的" transcr="de5" sem="ATRN"/><ana lex="的" transcr="di1" sem="taxi_(loanword)"/><ana lex="的" transcr="di2" sem="really_and_truly"/><ana lex="的" transcr="di4" sem="aim, clear"/>的</w>，
 <w><ana lex="眼光" transcr="yan3 guang1" sem="gaze, insight, foresight, vision, way_of_looking_at_things"/>眼光</w>
-<w><ana lex="和" transcr="he2" sem="old_old_和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="old_old_和[he2], harmonious"/>和</w>
+<w><ana lex="和" transcr="he2" sem="和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="和[he2], harmonious"/>和</w>
 <w><ana lex="样子" transcr="yang4 zi5" sem="appearance, manner, pattern, model"/>样子</w>
 <w><ana lex="都" transcr="Du1" sem="surname_Du"/><ana lex="都" transcr="dou1" sem="all, both, entirely, (used_for_emphasis)_even, already, (not)_at_all"/><ana lex="都" transcr="du1" sem="capital_city, metropolis"/>都</w>
 <w><ana lex="很" transcr="hen3" sem="(adverb_of_degree), quite, very, awfully"/>很</w>
@@ -2259,12 +2259,12 @@
 <w><ana lex="点头" transcr="dian3 tou2" sem="to_nod"/>点头</w>，
 <w><ana lex="他" transcr="ta1" sem="he_or_him, (used_for_either_sex_when_the_sex_is_unknown_or_unimportant), (used_before_sb's_name_for_emphasis), (used_as_a_meaningless_mock_object), other, another"/>他</w>
 <w><ana lex="的" transcr="de5" sem="ATRN"/><ana lex="的" transcr="di1" sem="taxi_(loanword)"/><ana lex="的" transcr="di2" sem="really_and_truly"/><ana lex="的" transcr="di4" sem="aim, clear"/>的</w>
-<w><ana lex="笑" transcr="xiao4" sem="old_old_笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>
+<w><ana lex="笑" transcr="xiao4" sem="笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>
 <w><ana lex="也" transcr="Ye3" sem="surname_Ye"/><ana lex="也" transcr="ye3" sem="also, too, (in_Classical_Chinese)_final_particle_implying_affirmation"/>也</w>
 <w><ana lex="不" transcr="bu4" sem="(negative_prefix), not, no"/>不</w>
 <w><ana lex="像" transcr="xiang4" sem="to_resemble, to_be_like, to_look_as_if, such_as, appearance, image, portrait, image_under_a_mapping_(math.)"/>像</w>
 <w><ana lex="真" transcr="zhen1" sem="really, truly, indeed, real, true, genuine"/>真</w>
-<w><ana lex="笑" transcr="xiao4" sem="old_old_笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>。</se>
+<w><ana lex="笑" transcr="xiao4" sem="笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>。</se>
 <se lang="ru">Вдруг пришел человек: на вид ему лет двадцать, не больше.Не мог его рассмотреть как следует.Расплывшись в улыбке, он кивнул мне.Улыбка у него притворная.</se>
 </para>
 <para>
@@ -2284,7 +2284,7 @@
 <se lang="zh">
 <w><ana lex="他" transcr="ta1" sem="he_or_him, (used_for_either_sex_when_the_sex_is_unknown_or_unimportant), (used_before_sb's_name_for_emphasis), (used_as_a_meaningless_mock_object), other, another"/>他</w>
 <w><ana lex="仍然" transcr="reng2 ran2" sem="still, yet"/>仍然</w>
-<w><ana lex="笑" transcr="xiao4" sem="old_old_笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>
+<w><ana lex="笑" transcr="xiao4" sem="笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>
 <w><ana lex="着" transcr="zhao1" sem="(chess)_move, trick, all_right!, (dialect)_to_add"/><ana lex="着" transcr="zhao2" sem="to_touch, to_come_in_contact_with, to_feel, to_be_affected_by, to_catch_fire, to_burn, (coll.)_to_fall_asleep, (after_a_verb)_hitting_the_mark, succeeding_in"/><ana lex="着" transcr="zhe5" sem="PRG"/><ana lex="着" transcr="zhuo2" sem="to_wear_(clothes), to_contact, to_use, to_apply"/>着</w>
 <w><ana lex="说" transcr="shui4" sem="to_persuade"/><ana lex="说" transcr="shuo1" sem="to_speak, to_say, to_explain, to_scold, to_tell_off, a_theory_(usually_in_compounds_such_as_日心说_heliocentric_theory)"/>说</w>，
 <w><ana lex="不是" transcr="bu2 shi5" sem="fault, blame"/><ana lex="不是" transcr="bu4 shi4" sem="no, is_not, not"/>不是</w>
@@ -2579,7 +2579,7 @@
 <w><ana lex="着" transcr="zhao1" sem="(chess)_move, trick, all_right!, (dialect)_to_add"/><ana lex="着" transcr="zhao2" sem="to_touch, to_come_in_contact_with, to_feel, to_be_affected_by, to_catch_fire, to_burn, (coll.)_to_fall_asleep, (after_a_verb)_hitting_the_mark, succeeding_in"/><ana lex="着" transcr="zhe5" sem="PRG"/><ana lex="着" transcr="zhuo2" sem="to_wear_(clothes), to_contact, to_use, to_apply"/>着</w>
 <w><ana lex="疑心" transcr="yi2 xin1" sem="suspicion, to_suspect"/>疑心</w>
 <w><ana lex="极" transcr="ji2" sem="extremely, pole_(geography,_physics), utmost, top"/>极</w>
-<w><ana lex="深" transcr="shen1" sem="old_old_深[shen1]"/><ana lex="深" transcr="shen1" sem="deep, depth, deeply, (of_a_color)_dark, deep, rich"/>深</w>
+<w><ana lex="深" transcr="shen1" sem="深[shen1]"/><ana lex="深" transcr="shen1" sem="deep, depth, deeply, (of_a_color)_dark, deep, rich"/>深</w>
 <w><ana lex="的" transcr="de5" sem="ATRN"/><ana lex="的" transcr="di1" sem="taxi_(loanword)"/><ana lex="的" transcr="di2" sem="really_and_truly"/><ana lex="的" transcr="di4" sem="aim, clear"/>的</w>
 <w><ana lex="眼光" transcr="yan3 guang1" sem="gaze, insight, foresight, vision, way_of_looking_at_things"/>眼光</w>，
 <w><ana lex="面面相觑" transcr="mian4 mian4 xiang1 qu4" sem="to_look_at_each_other_in_dismay_(idiom)"/>面面相觑</w>。</se>
@@ -2622,7 +2622,7 @@
 <w><ana lex="朋友" transcr="peng2 you5" sem="friend, CL:個|个[ge4],位[wei4]"/>朋友</w>
 <w><ana lex="师生" transcr="shi1 sheng1" sem="teachers_and_students"/>师生</w>
 <w><ana lex="仇敌" transcr="chou2 di2" sem="enemy"/>仇敌</w>
-<w><ana lex="和" transcr="he2" sem="old_old_和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="old_old_和[he2], harmonious"/>和</w>
+<w><ana lex="和" transcr="he2" sem="和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="和[he2], harmonious"/>和</w>
 <w><ana lex="各" transcr="ge4" sem="each, every"/>各</w>
 <w><ana lex="不" transcr="bu4" sem="(negative_prefix), not, no"/>不</w>
 <w><ana lex="相识" transcr="xiang1 shi2" sem="to_get_to_know_each_other, acquaintance"/>相识</w>
@@ -2639,7 +2639,7 @@
 <w><ana lex="死" transcr="si3" sem="to_die, impassable, uncrossable, inflexible, rigid, extremely, damned"/>死</w>
 <w><ana lex="也" transcr="Ye3" sem="surname_Ye"/><ana lex="也" transcr="ye3" sem="also, too, (in_Classical_Chinese)_final_particle_implying_affirmation"/>也</w>
 <w><ana lex="不" transcr="bu4" sem="(negative_prefix), not, no"/>不</w>
-<w><ana lex="肯" transcr="ken3" sem="old_old_肯[ken3]"/><ana lex="肯" transcr="ken3" sem="to_agree, to_consent, to_be_ready_(to_do_sth), willing"/>肯</w>
+<w><ana lex="肯" transcr="ken3" sem="肯[ken3]"/><ana lex="肯" transcr="ken3" sem="to_agree, to_consent, to_be_ready_(to_do_sth), willing"/>肯</w>
 <w><ana lex="跨过" transcr="kua4 guo4" sem="to_surmount, to_cross_over"/>跨过</w>
 <w><ana lex="这" transcr="zhe4" sem="this, these, (commonly_pr._[zhei4]_before_a_classifier,_esp._in_Beijing)"/>这</w>
 <w><ana lex="一" transcr="yi1" sem="one, 1, single, a_(article), as_soon_as, entire, whole, all, throughout, «one»_radical_in_Chinese_characters_(Kangxi_radical_1), also_pr._[yao1]_for_greater_clarity_when_spelling_out_numbers_digit_by_digit"/>一</w>
@@ -2753,7 +2753,7 @@
 <w><ana lex="的" transcr="de5" sem="ATRN"/><ana lex="的" transcr="di1" sem="taxi_(loanword)"/><ana lex="的" transcr="di2" sem="really_and_truly"/><ana lex="的" transcr="di4" sem="aim, clear"/>的</w>
 <w><ana lex="人" transcr="ren2" sem="man, person, people, CL:個|个[ge4],位[wei4]"/>人</w>。
 <w><ana lex="有的" transcr="you3 de5" sem="(there_are)_some_(who_are...), some_(exist)"/>有的</w>
-<w><ana lex="却" transcr="que4" sem="old_old_卻|却[que4]"/><ana lex="却" transcr="que4" sem="but, yet, however, while, to_go_back, to_decline, to_retreat, nevertheless, even_though"/>却</w>
+<w><ana lex="却" transcr="que4" sem="but, yet, however, while, to_go_back, to_decline, to_retreat, nevertheless, even_though"/>却</w>
 <w><ana lex="还" transcr="Huan2" sem="surname_Huan"/><ana lex="还" transcr="hai2" sem="still, still_in_progress, still_more, yet, even_more, in_addition, fairly, passably_(good), as_early_as, even, also, else"/><ana lex="还" transcr="huan2" sem="to_pay_back, to_return"/>还</w>
 <w><ana lex="吃" transcr="chi1" sem="to_eat, to_consume, to_eat_at_(a_cafeteria_etc), to_eradicate, to_destroy, to_absorb, to_suffer, to_stammer_(Taiwan_pr._for_this_sense_is_[ji2])"/><ana lex="吃" transcr="chi1" sem="to_eat, to_consume, to_eat_at_(a_cafeteria_etc), to_eradicate, to_destroy, to_absorb, to_suffer, to_stammer_(Taiwan_pr._for_this_sense_is_[ji2])"/>吃</w>，
 <w><ana lex="也" transcr="Ye3" sem="surname_Ye"/><ana lex="也" transcr="ye3" sem="also, too, (in_Classical_Chinese)_final_particle_implying_affirmation"/>也</w>
@@ -3024,7 +3024,7 @@
 <w><ana lex="赵" transcr="Zhao4" sem="surname_Zhao, one_of_the_seven_states_during_the_Warring_States_Period_(476-220_BC), the_Former_Zhao_前趙_(304-329)_and_Later_Zhao_後趙_(319-350),_states_of_the_Sixteen_Kingdoms"/><ana lex="赵" transcr="zhao4" sem="to_surpass_(old)"/>赵</w>
 <w><ana lex="贵" transcr="gui4" sem="expensive, noble, your_(name), precious"/>贵</w>
 <w><ana lex="翁" transcr="Weng1" sem="surname_Weng"/><ana lex="翁" transcr="weng1" sem="elderly_man, father, father-in-law, neck_feathers_of_a_bird_(old)"/>翁</w>
-<w><ana lex="和" transcr="he2" sem="old_old_和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="old_old_和[he2], harmonious"/>和</w>
+<w><ana lex="和" transcr="he2" sem="和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="和[he2], harmonious"/>和</w>
 <w><ana lex="他" transcr="ta1" sem="he_or_him, (used_for_either_sex_when_the_sex_is_unknown_or_unimportant), (used_before_sb's_name_for_emphasis), (used_as_a_meaningless_mock_object), other, another"/>他</w>
 <w><ana lex="的" transcr="de5" sem="ATRN"/><ana lex="的" transcr="di1" sem="taxi_(loanword)"/><ana lex="的" transcr="di2" sem="really_and_truly"/><ana lex="的" transcr="di4" sem="aim, clear"/>的</w>
 <w><ana lex="狗" transcr="gou3" sem="dog, CL:隻|只[zhi1],條|条[tiao2]"/>狗</w>，
@@ -3054,7 +3054,7 @@
 <w><ana lex="抿" transcr="min3" sem="purse_up_(lips), to_smooth"/>抿</w>
 <w><ana lex="着" transcr="zhao1" sem="(chess)_move, trick, all_right!, (dialect)_to_add"/><ana lex="着" transcr="zhao2" sem="to_touch, to_come_in_contact_with, to_feel, to_be_affected_by, to_catch_fire, to_burn, (coll.)_to_fall_asleep, (after_a_verb)_hitting_the_mark, succeeding_in"/><ana lex="着" transcr="zhe5" sem="PRG"/><ana lex="着" transcr="zhuo2" sem="to_wear_(clothes), to_contact, to_use, to_apply"/>着</w>
 <w><ana lex="嘴" transcr="zui3" sem="mouth, beak, nozzle, spout_(of_teapot_etc), CL:張|张[zhang1],個|个[ge4]"/>嘴</w>
-<w><ana lex="笑" transcr="xiao4" sem="old_old_笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>。</se>
+<w><ana lex="笑" transcr="xiao4" sem="笑[xiao4]"/><ana lex="笑" transcr="xiao4" sem="laugh, smile, CL:個|个[ge4]"/>笑</w>。</se>
 <se lang="ru">У одних совсем нельзя различить черты лица, словно они закрыты покрывалами; у других, как и тогда, темные лица с оскаленными клыками.Они ухмыляются, не разжимая губ.</se>
 </para>
 <para>
@@ -3162,7 +3162,7 @@
 <w><ana lex="岂" transcr="kai3" sem="old_ joyful, kind, old_ surname_Kai"/><ana lex="岂" transcr="qi3" sem="how?_(emphatic_question)"/>岂</w>
 <w><ana lex="但" transcr="dan4" sem="but, yet, however, only, merely, still"/>但</w>
 <w><ana lex="不" transcr="bu4" sem="(negative_prefix), not, no"/>不</w>
-<w><ana lex="肯" transcr="ken3" sem="old_old_肯[ken3]"/><ana lex="肯" transcr="ken3" sem="to_agree, to_consent, to_be_ready_(to_do_sth), willing"/>肯</w>
+<w><ana lex="肯" transcr="ken3" sem="肯[ken3]"/><ana lex="肯" transcr="ken3" sem="to_agree, to_consent, to_be_ready_(to_do_sth), willing"/>肯</w>
 <w><ana lex="改" transcr="gai3" sem="to_change, to_alter, to_transform, to_correct"/>改</w>，
 <w><ana lex="而且" transcr="er2 qie3" sem="(not_only_...)_but_also, moreover, in_addition, furthermore"/>而且</w>
 <w><ana lex="早已" transcr="zao3 yi3" sem="long_ago, for_a_long_time"/>早已</w>
@@ -3367,7 +3367,7 @@
 <para>
 <se lang="zh">
 <w><ana lex="横梁" transcr="heng2 liang2" sem="beam"/>横梁</w>
-<w><ana lex="和" transcr="he2" sem="old_old_和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="old_old_和[he2], harmonious"/>和</w>
+<w><ana lex="和" transcr="he2" sem="和[he2]"/><ana lex="和" transcr="He2" sem="surname_He, Japanese_(food,_clothes_etc)"/><ana lex="和" transcr="he2" sem="and, together_with, with, sum, union, peace, harmony, Taiwan_pr._[han4]_when_it_means_«and»_or_«with»"/><ana lex="和" transcr="he4" sem="to_compose_a_poem_in_reply_(to_sb's_poem)_using_the_same_rhyme_sequence, to_join_in_the_singing, to_chime_in_with_others"/><ana lex="和" transcr="hu2" sem="to_complete_a_set_in_mahjong_or_playing_cards"/><ana lex="和" transcr="huo2" sem="soft, warm"/><ana lex="和" transcr="huo4" sem="to_mix_together, to_blend"/><ana lex="和" transcr="he2" sem="和[he2], harmonious"/>和</w>
 <w><ana lex="椽子" transcr="chuan2 zi5" sem="beam, rafter"/>椽子</w>
 <w><ana lex="都" transcr="Du1" sem="surname_Du"/><ana lex="都" transcr="dou1" sem="all, both, entirely, (used_for_emphasis)_even, already, (not)_at_all"/><ana lex="都" transcr="du1" sem="capital_city, metropolis"/>都</w>
 <w><ana lex="在" transcr="zai4" sem="(located)_at, (to_be)_in, to_exist, in_the_middle_of_doing_sth, (indicating_an_action_in_progress)"/>在</w>
@@ -3511,7 +3511,7 @@
 <w><ana lex="个" transcr="ge4" sem="individual, this, that, size, classifier_for_people_or_objects_in_general"/><ana lex="个" transcr="ge4" sem="individual, this, that, size, classifier_for_people_or_objects_in_general"/>个</w>
 <w><ana lex="不住" transcr="bu4 zhu4" sem="repeatedly, continuously, constantly, unable_to_(resist,_conceal_etc)"/>不住</w>，
 <w><ana lex="他" transcr="ta1" sem="he_or_him, (used_for_either_sex_when_the_sex_is_unknown_or_unimportant), (used_before_sb's_name_for_emphasis), (used_as_a_meaningless_mock_object), other, another"/>他</w>
-<w><ana lex="却" transcr="que4" sem="old_old_卻|却[que4]"/><ana lex="却" transcr="que4" sem="but, yet, however, while, to_go_back, to_decline, to_retreat, nevertheless, even_though"/>却</w>
+<w><ana lex="却" transcr="que4" sem="but, yet, however, while, to_go_back, to_decline, to_retreat, nevertheless, even_though"/>却</w>
 <w><ana lex="劝" transcr="quan4" sem="to_advise, to_urge, to_try_to_persuade, to_exhort, to_console, to_soothe"/>劝</w>
 <w><ana lex="母亲" transcr="mu3 qin1" sem="mother, also_pr._[mu3_qin5], CL:個|个[ge4]"/>母亲</w>
 <w><ana lex="不要" transcr="bu4 yao4" sem="don't!, must_not"/>不要</w>
@@ -3564,7 +3564,7 @@
 <w><ana lex="哭" transcr="ku1" sem="to_cry, to_weep"/>哭</w>
 <w><ana lex="的" transcr="de5" sem="ATRN"/><ana lex="的" transcr="di1" sem="taxi_(loanword)"/><ana lex="的" transcr="di2" sem="really_and_truly"/><ana lex="的" transcr="di4" sem="aim, clear"/>的</w>
 <w><ana lex="时候" transcr="shi2 hou5" sem="time, length_of_time, moment, period"/>时候</w>，
-<w><ana lex="却" transcr="que4" sem="old_old_卻|却[que4]"/><ana lex="却" transcr="que4" sem="but, yet, however, while, to_go_back, to_decline, to_retreat, nevertheless, even_though"/>却</w>
+<w><ana lex="却" transcr="que4" sem="but, yet, however, while, to_go_back, to_decline, to_retreat, nevertheless, even_though"/>却</w>
 <w><ana lex="并" transcr="bing4" sem="and, furthermore, also, together_with, (not)_at_all, simultaneously, to_combine, to_join, to_merge"/><ana lex="并" transcr="bing4" sem="to_combine, to_amalgamate"/><ana lex="并" transcr="bing4" sem="and, furthermore, also, together_with, (not)_at_all, simultaneously, to_combine, to_join, to_merge"/>并</w>
 <w><ana lex="没有" transcr="mei2 you3" sem="haven't, hasn't, doesn't_exist, to_not_have, to_not_be"/>没有</w>
 <w><ana lex="说明" transcr="shuo1 ming2" sem="to_explain, to_illustrate, to_indicate, to_show, to_prove, explanation, directions, caption, CL:個|个[ge4]"/>说明</w>，

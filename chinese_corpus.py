@@ -10,10 +10,10 @@ DIR_PATH = '/home/lizaku/PycharmProjects/varia/chinese_texts'
 DICT_PATH = '/home/lizaku/PycharmProjects/varia/cedict_ts.u8'
 # smart transription split
 re_transcr = re.compile('([^\]]*\])')
-re_punct = re.compile('[《》“”！。？：  -‘、…ａ；\n 　’—（）0-9，－]')
+re_punct = re.compile('[《》“”！。？：  -‘、…ａｎ；\n 　’—（）0-9，－]')
 re_clean1 = re.compile('(</w>)+')
 re_clean2 = re.compile('<w><ana lex="\n[^\n]*\n')
-re_link = re.compile('(?:see_|see_also_|variant_of_|same_as_)([^,]*)')
+re_link = re.compile('(?:see_|see_also_|(?:old)?variant_of_|same_as_)([^,]*)')
 
 
 def load_dict(path): # todo: save the dictionary in json and do not load it every time
@@ -145,7 +145,8 @@ def make_xml(fname, cedict):
                                     ' "', ' «').replace('" ', '» ').replace('")', '»)').replace('",', '»,') \
                                     .replace('"/', '»/').replace(' ', '_').replace('/', ', ').replace('_, ', '').strip().strip(',')
                                 transl = transl.replace(link, transl_char)
-                                transl = re.sub('see_|see_also_|variant_of_|same_as_', '', transl)
+                                transl = re.sub('see_|see_also_|(old)?variant_of_|same_as_', '', transl)
+                                transl = transl.replace('old_old_', '')
                     word_xml += '<ana lex="%s" transcr="%s" sem="%s"/>' % (chunk, transcr, transl)
                 word_xml += chunk + '</w>'
                 transformed += word_xml.replace('=" ', '="')
